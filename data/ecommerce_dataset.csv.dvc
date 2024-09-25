@@ -1,0 +1,5 @@
+outs:
+- md5: 61f8b8cf8c75e650224e86e874eef1fc
+  size: 352
+  hash: md5
+  path: ecommerce_dataset.csv
